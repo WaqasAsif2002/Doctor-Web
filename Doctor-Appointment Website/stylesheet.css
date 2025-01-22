@@ -1,0 +1,116 @@
+.d-flex b {
+  margin: 80px 20px 0px 0px;
+}
+
+.cont {
+  margin: 0%;
+  padding: 0%;
+}
+.cont .picturebg {
+  position: relative;
+}
+.cont .lelo {
+  position: absolute;
+}
+
+.bigg {
+  color: black;
+}/*# sourceMappingURL=stylesheet.css.map */
+.num{
+  img{
+    padding-right: 20px;
+    /* justify-content: space-between; */
+  }
+}
+.socialcontainer{
+  .card-body{
+    
+    text-align: center;
+    
+    img{
+      margin-top: 50px;
+  cursor: pointer;
+    }
+  }
+}
+.testimonial{
+  /* margin: 10px 20px; */
+  padding: 0%;
+  margin: 0%;
+  gap: 20px;
+  .card{
+    width: 700px;
+    height: 350px;
+
+
+    .card-body{
+      text-align: left;
+    }
+    p{
+      color: rgb(148, 147, 147);
+      font-size: smaller;
+      padding-top: 10px;
+    }
+    img{
+      width: 70px;
+    }
+    h4{
+      color: #006767;
+      font-weight: 600;
+      font-size: large;
+    }
+
+    
+  }
+}
+.logosbanner{
+
+  img{
+    width: 80%;
+    /* margin-left: 110px; */
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 70px;
+
+  }
+  i{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    margin: auto;
+  }
+
+}
+.testimonial{
+  .heading{
+text-align: center;
+display: flex;
+  }
+}
+
+.hero{
+  img{
+    display: flex;
+
+  }
+  h1 p{
+    display: flex;
+  }
+}
+.subscribe{
+
+  h3{
+    color: black;
+  }
+}
+
+.mainfooter{
+  display: inline;
+  justify-content: flex-start;
+
+}
+.nav__item{
+  i{
+    padding-right: 5px;
+  }
+}
